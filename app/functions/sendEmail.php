@@ -27,8 +27,8 @@ try {
 
     $mail->setFrom($emailSend, 'Casa da Limpeza Ubatuba');
     $mail->addAddress('luangaldinodev@gmail.com', 'teste');
-    // $mail->addEmbeddedImage('../../src/img/Logo-HDF.jpeg', 'logo_cid');
-    $emailTemplate = file_get_contents('templates_email/template_01.html');
+    $mail->addEmbeddedImage('templates_email/images/banner.png', 'logo_cid');
+    $emailTemplate = file_get_contents('templates_email/template_02.html');
     $emailTemplate = str_replace(
         ['[nome]', '[mensagem]'],
         [$nome, $bodyMensage],

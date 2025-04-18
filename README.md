@@ -1,5 +1,6 @@
-<img src="src/images/logo.png" width="200" alt="Texto Alternativo">
+<img src="src/images/banner.png" alt="Texto Alternativo" style="display: block; margin: 0 auto; width: 100%; height: auto;">
 
+---
 
 # PHP Email Service with PHPMailer - Simple and Reliable Email Sending Solution
 
