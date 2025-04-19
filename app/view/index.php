@@ -59,7 +59,7 @@
         <p class="mt-4 text-lg text-[#4F4F4F] max-w-2xl mx-auto">
             O <strong>pombo.dev</strong> é a solução ideal para quem precisa disparar campanhas ou comunicados por e-mail direto do navegador. Sem código, sem complicação.
         </p>
-        <a href="#" class="mt-8 inline-block bg-[#F57C00] text-white px-6 py-3 rounded-lg font-semibold hover:bg-orange-600">Experimente grátis</a>
+        <a href="register.php" class="mt-8 inline-block bg-[#F57C00] text-white px-6 py-3 rounded-lg font-semibold hover:bg-orange-600">Experimente grátis</a>
     </section>
 
     <!-- Features -->
